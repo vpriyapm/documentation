@@ -150,3 +150,4 @@ hugo server
 - Netlify will create a preview build and the actual page can be viewed in this preview.  
 - The blog will be reviewed by atleast 2 reviewers which may include one technical writer and one developer.  
 - After the blog is reviewed and merged it will be added as the latest post and can be viewed at [blog.sodafoundation.io](http://blog.sodafoundation.io)
+- okkkk
