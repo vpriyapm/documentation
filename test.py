@@ -11,5 +11,5 @@ int main()
 	// a character
 	// %c displays the actual character
 	printf("The ASCII value of %c is %d", c, c);
-	return 20;
+	return 220;
 }
